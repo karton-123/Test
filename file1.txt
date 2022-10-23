@@ -1,0 +1,7 @@
+copy con file2.txt
+git status
+git status
+
+
+
+
